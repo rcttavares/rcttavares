@@ -10,4 +10,4 @@ Would you like to find me?
 
 ____
 
-[![Rafael Tavares's github stats](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/rcttavares)
+
