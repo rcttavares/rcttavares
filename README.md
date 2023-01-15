@@ -11,3 +11,4 @@ Would you like to find me?
 ____
 
 ![Rafael Tavares's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcttavares&show_icons=true&theme=dracula)
+![Rafael Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=rcttavares&show_icons=true&theme=dracula)
