@@ -67,6 +67,6 @@ Tools, languages, and other things that I like to work with.
   </tr>
 </table>
 
-____
+---
 
 ![Rafael Tavares GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rcttavares&show_icons=true&theme=dracula)
