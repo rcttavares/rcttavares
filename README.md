@@ -4,11 +4,11 @@
 
 My name is Rafael Tavares, i'm deaf and from Brazil (🇧🇷). I have been working in the IT field for over six years and i am passionate about the Web, about development and i try to discover a new world :)
 
-* <a href="https://www.linkedin.com/in/rcttavares/" target="_blank">
+* <a href="https://www.linkedin.com/in/rcttavares/">
     <small>Linkedin</small>
   </a>
 
-* <a href="https://github.com/rcttavares/resume/blob/master/README.md" target="_blank">
+* <a href="https://github.com/rcttavares/resume/blob/master/README.md">
     <small>Resume</small>
   </a>
 
