@@ -4,9 +4,13 @@
 
 My name is Rafael Tavares, i'm deaf and from Brazil (🇧🇷). I have been working in the IT field for over six years and i am passionate about the Web, about development and i try to discover a new world :)
 
-Would you like to find me?
+* <a href="https://www.linkedin.com/in/rcttavares/" target="_blank">
+    <small>Linkedin</small>
+  </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/rcttavares)
+* <a href="https://github.com/rcttavares/resume/blob/master/README.md" target="_blank">
+    <small>Resume</small>
+  </a>
 
 ### Favorite Techs
 
@@ -50,7 +54,7 @@ Tools, languages, and other things that I like to work with.
     </td>
     <td align="center">
         <img src="./assets/postgresql.svg" width="50" />
-        <p><small>PostgreSQL</small></p>
+        <p><small>Postgres</small></p>
     </td>
     <td align="center">
         <img src="./assets/postman.svg" width="50" />
@@ -61,7 +65,7 @@ Tools, languages, and other things that I like to work with.
         <p><small>Git</small></p>
     </td>
     <td align="center">
-        <img src="./assets/amazonaws.svg" width="50" />
+        <img src="./assets/aws.svg" width="50" />
         <p><small>AWS</small></p>
     </td>
   </tr>
