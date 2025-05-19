@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Rafael Tavares, i'm deaf and from Brazil (🇧🇷). I have been working in the IT field for over six years and i am passionate about the Web, about development and i try to discover a new world :)
+My name is Rafael Tavares, i'm deaf and from Brazil (🇧🇷). I have over ten years of experience in the Information Technology field and I am passionate about web and mobile development. :)
 
 * <a href="https://www.linkedin.com/in/rcttavares/">
     <small>Linkedin</small>
