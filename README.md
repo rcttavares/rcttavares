@@ -4,7 +4,7 @@
 
 My name is Rafael Tavares; I am deaf and Brazilian (🇧🇷). I have over 10 years of experience in Information Technology, working as a full-stack developer, and I am passionate about web and mobile development. :)
 
-I'm currently pursuing a postgraduate degree in Applied AI Engineering, expanding into building smarter, AI-powered solutions.
+I'm currently pursuing a postgraduate specialization in Applied AI Engineering, expanding into building smarter, AI-powered solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGl0bGU%2BTGlua2VkSW48L3RpdGxlPgogIDxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPgo8L3N2Zz4%3D&logoColor=white)](https://www.linkedin.com/in/rcttavares/)
 [![Resume](https://img.shields.io/badge/Resume-2E2E2E?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/rcttavares/resume/blob/master/README.md)
@@ -51,7 +51,7 @@ Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rcttavares&show_icons=true&theme=dracula&hide_border=true" alt="Rafael Tavares GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcttavares&layout=compact&theme=dracula&hide_border=true" alt="Rafael Tavares top languages" /></td>
+    <td><img src="./profile/stats.svg" alt="Rafael Tavares GitHub stats" /></td>
+    <td><img src="./profile/top-langs.svg" alt="Rafael Tavares top languages" /></td>
   </tr>
 </table>
