@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Rafael Tavares; I am deaf and Brazilian (🇧🇷). I have over 10 years of experience in Information Technology, working as a full-stack developer, and I am passionate about web and mobile development. :)
+My name is Rafael Tavares; I am deaf and brazilian (🇧🇷). I have over 10 years of experience in Information Technology, working as a full-stack developer, and I am passionate about web and mobile development. :)
 
 I'm currently pursuing a postgraduate specialization in Applied AI Engineering, expanding into building smarter, AI-powered solutions.
 
@@ -46,12 +46,3 @@ Tools, languages, and other things that I like to work with.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlZpc3VhbCBTdHVkaW8gQ29kZTwvdGl0bGU%2BPHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg%3D%3D&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
-
----
-
-<table>
-  <tr>
-    <td><img src="./profile/stats.svg" alt="Rafael Tavares GitHub stats" /></td>
-    <td><img src="./profile/top-langs.svg" alt="Rafael Tavares top languages" /></td>
-  </tr>
-</table>
