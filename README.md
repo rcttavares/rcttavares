@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Rafael Tavares; I am deaf and brazilian (🇧🇷). I have over 10 years of experience in Information Technology, working as a software engineer, and I am passionate about web and mobile development. :)
+My name is Rafael Tavares. I am deaf and Brazilian 🇧🇷, with over 10 years of experience in IT, specializing in web and mobile development. I have strong experience with Frontend technologies and am currently expanding my expertise into Full Stack development.
 
 I'm currently pursuing a postgraduate specialization in Applied AI Engineering, expanding into building smarter, AI-powered solutions.
 
